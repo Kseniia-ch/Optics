@@ -1,0 +1,28 @@
+.btn-style-blue-100{
+    width: 100%;
+    padding: 15px;
+}
+
+.btn-auth{
+    margin-left: 20px;
+    padding: 10px;
+    min-width: 150px;
+}
+
+.form-check{
+    display: inline-block;
+}
+
+.btn-style-blue{
+    font-weight: 500;
+    color: #3092f5;
+
+}
+
+.table {
+    text-align: center;
+}
+
+.table td {
+    max-width: 100px;
+}
